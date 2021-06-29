@@ -1,5 +1,5 @@
 # pppmon
-Uses Boost libary
+Uses Boost library
 ```
 apt install build-essential make cmake libbost-dev
 cmake .
