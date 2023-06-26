@@ -1,7 +1,7 @@
 # pppmon
 Uses Boost library
 ```
-apt install build-essential make cmake libbost-dev
+apt install build-essential make cmake libboost-dev
 cmake .
 ```
 usage: 
